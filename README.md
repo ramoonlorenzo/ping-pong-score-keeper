@@ -1,1 +1,1 @@
-# project-ping-pong-score-keeper
+# Ping Pong Score Keeper
